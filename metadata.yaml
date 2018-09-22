@@ -1,5 +1,8 @@
 _repo: With-Force-and-Arms-A-Tale-of-Love-and-Salem-Witchcraft_54371
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54371-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/808
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54371#With-Force-and-Arms-A-Tale-of-Love-and-Salem-Witchcraft
 gutenberg_issued: '2017-03-16'
 gutenberg_type: Text
 identifiers:
